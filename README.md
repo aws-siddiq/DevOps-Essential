@@ -339,13 +339,13 @@ Check the GIT version.
 git --version
 ```
 (Optional) If it does not exist, then you can install it with the below command. Else no need to execute the below line:  
-
-```
- sudo mkdir hello-world-master && sudo cd hello-world-master
-```
 ```
 sudo apt install git -y
 ```
+```
+ sudo mkdir hello-world-master && sudo cd hello-world-master
+```
+
 Download the **Java Code** that we are going to use in the CICD pipeline.
 ```
 wget https://ctjpgbucket-2026.s3.us-east-1.amazonaws.com/hello-world-master.zip
