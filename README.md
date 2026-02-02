@@ -339,6 +339,10 @@ Check the GIT version.
 git --version
 ```
 (Optional) If it does not exist, then you can install it with the below command. Else no need to execute the below line:  
+
+```
+ sudo mkdir hello-world-master && sudo cd hello-world-master
+```
 ```
 sudo apt install git -y
 ```
